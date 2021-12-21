@@ -11,10 +11,9 @@ int32_t main(){
          if ((x*3-(n-x)>=p)) {
      cout<< "PASS"<<"\n";
     }
-    else
-    {
+    else{
         cout <<"FAIL"<<"\n";
-    }
+        }
     }
     return 0;
     }
